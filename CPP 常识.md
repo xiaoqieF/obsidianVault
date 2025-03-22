@@ -4,8 +4,7 @@ comments: true
 date: 2023-05-28 19:37:21
 categories: 基础
 tags:
-- C++
-
+  - C++
 excerpt: 当初学习 C++ 的时候看过很多书，靠 《C++ Primer 5th》 入门，陆续看了《Effective C++》、《Effective Modern C++》、《深入理解C++对象模型》、《程序员自我修养》等，对一些基础知识都有了解，最近借着准备找工作的机会并结合网上的知识总结，归纳一份常见问题清单供自己参考，本篇博客会持续补充和完善...
 math: true
 ---
