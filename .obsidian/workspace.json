@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec5c8fcd4d99941",
+        "id": "39347efc6961f82a",
         "type": "tabs",
         "children": [
           {
-            "id": "f5401b04d6a686f7",
+            "id": "861af5e9d122c140",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "卡尔曼滤波理论推导"
-            }
-          },
-          {
-            "id": "b649d59e3bfce8b4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
             }
           }
         ]
@@ -188,13 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5401b04d6a686f7",
+  "active": "861af5e9d122c140",
   "lastOpenFiles": [
-    "2.png",
-    "1.jpg",
-    "卡尔曼滤波理论推导.md",
     "CPP 常识.md",
+    "卡尔曼滤波理论推导.md",
+    "attachments",
+    "attachments/1.jpg",
+    "attachments/2.png",
     "欢迎.md",
-    "sort.png"
+    "attachments/sort.png"
   ]
 }
