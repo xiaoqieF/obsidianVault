@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "905cd5de5f7a0834",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a370de8ac88d849",
+  "active": "f5401b04d6a686f7",
   "lastOpenFiles": [
     "欢迎.md",
     "测试笔记.md"
