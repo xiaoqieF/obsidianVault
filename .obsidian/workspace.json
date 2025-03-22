@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试笔记.md",
+                "file": "CPP 常识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试笔记"
+              "title": "CPP 常识"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试笔记.md",
+                "file": "CPP 常识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "测试笔记 的反向链接列表"
+              "title": "CPP 常识 的反向链接列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试笔记.md",
+                "file": "CPP 常识.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试笔记 的大纲"
+              "title": "CPP 常识 的大纲"
             }
           },
           {
@@ -193,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5401b04d6a686f7",
+  "active": "6a370de8ac88d849",
   "lastOpenFiles": [
     "sort.png",
     "欢迎.md",
-    "测试笔记.md"
+    "CPP 常识.md"
   ]
 }
