@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "测试笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "测试笔记 的大纲"
             }
           },
           {
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5401b04d6a686f7",
+  "active": "6a370de8ac88d849",
   "lastOpenFiles": [
     "欢迎.md",
     "测试笔记.md"
